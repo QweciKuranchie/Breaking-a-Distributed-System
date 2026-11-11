@@ -1,8 +1,7 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://nextwork.ai/static/nextwork-logo-paper.svg" /><img src="https://nextwork.ai/static/nextwork-logo-leather.svg" alt="NextWork" width="300" /></picture>
 
 # Break a Distributed System on Purpose
 
-**Project Link:** [View Project](https://nextwork.ai/projects/56330f0f-e0c6-474e-bda9-d625ff412ba0)
+**Project Link:** [View Project](https://github.com/QweciKuranchie/Breaking-a-Distributed-System.git)
 
 **Author:** Richard Nuhu
 
